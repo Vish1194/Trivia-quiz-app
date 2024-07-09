@@ -1,0 +1,152 @@
+.font-style-1{
+    font-family: cursive;
+}
+.bg-home{
+    background-image: url(./assets/images/world.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 0% 20%;
+}
+
+.quiz-form{
+    background-color: rgba(0, 0, 0, 0.3);
+    backdrop-filter: blur(5px);
+    border-radius: 50px;
+}
+/* Pointer on hover */
+.hover-pointer:hover{
+    cursor: pointer;
+}
+
+/* Background for all categories */
+
+.bg-pos-y50{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 0% 50%;
+}
+
+.bg-pos-y70{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 0% 70%;
+}
+
+.bg-img-gen{
+    background-image: url(./assets/images/general1.jpg);
+}
+
+.bg-img-book{
+    background-image: url(./assets/images/books1.jpg);
+}
+
+.bg-img-film{
+    background-image: url(./assets/images/movie1.jpg);
+}
+
+.bg-img-music{
+    background-image: url(./assets/images/music1.jpg);
+}
+
+.bg-img-theatre{
+    background-image: url(./assets/images/theatre1.jpg);
+}
+
+.bg-img-television{
+    background-image: url(./assets/images/television1.jpg);
+}
+
+.bg-img-game{
+    background-image: url(./assets/images/game1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-img-board{
+    background-image: url(./assets/images/board1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-img-nature{
+    background-image: url(./assets/images/forest.jpg);
+}
+
+.bg-img-computer{
+    background-image: url(./assets/images/technology1.jpg);
+}
+
+.bg-img-mathematics{
+    background-image: url(./assets/images/math1.jpg);
+}
+
+.bg-img-mythology{
+    background-image: url(./assets/images/stone.jpg);
+}
+
+.bg-img-sport{
+    background-image: url(./assets/images/sport1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-img-geography{
+    background-image: url(./assets/images/earth.jpg);
+}
+
+.bg-img-politics{
+    background-image: url(./assets/images/politics1.jpg);
+}
+
+.bg-img-art{
+    background-image: url(./assets/images/art1.jpg);
+}
+
+.bg-img-vehicle{
+    background-image: url(./assets/images/vehicle1.jpg);
+}
+
+.bg-img-comic{
+    background-image: url(./assets/images/titan1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-img-gadgets{
+    background-image: url(./assets/images/science_computer.jpg);
+}
+
+/* Question card styles */
+
+.que-card{
+    background-color: rgba(129, 118, 118, 0.362);
+    backdrop-filter: blur(10px);
+    border-radius: 7px;
+    animation: glow 5s infinite;
+}
+.que-card-dark{
+    background-color: rgba(0, 0, 0, 0.59);
+    backdrop-filter: blur(15px);
+    border-radius: 7px;
+    animation: glow 5s infinite;
+}
+
+/* Gradient Background */
+
+.bg-grad1{
+    background: #0F2027;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #2C5364, #203A43, #0F2027);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #2C5364, #203A43, #0F2027); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+}
+
+/* text color */
+.text-green{
+    color: greenyellow;
+}
+.text-yellow{
+    color: yellow;
+}
+.text-orange{
+    color: rgb(255, 77, 0);
+}
